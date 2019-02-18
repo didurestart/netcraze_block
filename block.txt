@@ -1,6 +1,11 @@
 musical.ly
 muscdn.com
 snapchat.com
-snapchat.com
 baidu.com
 ibytedtos.com
+akamaized.net
+toutiao.com
+snssdk.com
+umeng.com
+isnssdk.com
+byteoversea.com
