@@ -12,3 +12,4 @@ api2-19-h2.musical.ly
 alogs.umeng.com
 gecko-sg.byteoversea.com
 baidu.com
+(^|\.)musical\.ly$
