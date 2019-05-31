@@ -1,14 +1,8 @@
-mon.musical.ly
 p16-tiktokcdn-com.akamaized.net
 mpak-suse1.akamaized.net
-v21.muscdn.com
 security.snssdk.com
-p16.muscdn.com
 i.isnssdk.com
-api2.musical.ly
-applog.musical.ly
 imapi-mu.isnssdk.com
-api2-19-h2.musical.ly
 alogs.umeng.com
 gecko-sg.byteoversea.com
 baidu.com
