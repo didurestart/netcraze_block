@@ -13,3 +13,4 @@ alogs.umeng.com
 gecko-sg.byteoversea.com
 baidu.com
 (^|\.)musical\.ly$
+(^|\.)muscdn\.com$
