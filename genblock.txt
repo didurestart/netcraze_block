@@ -35,6 +35,8 @@ tracking.miui.com
 tyler.logs.roku.com
 www.coin-hive.com
 scribe.logs.roku.com
+e.reddit.com
+graph.facebook.com
 
 (^|\.)xn--.*$
 ^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.]
