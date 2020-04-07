@@ -34,6 +34,8 @@ test.new.api.ad.xiaomi.com
 tracking.miui.com
 tyler.logs.roku.com
 www.coin-hive.com
+scribe.logs.roku.com
+
 (^|\.)xn--.*$
 ^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.]
 ^(.+[-_.])??m?ad[sxv]?[0-9]*[-_.]
