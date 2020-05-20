@@ -12,5 +12,4 @@ baidu.com
 (^|\.)snapchat\.com$
 (^|\.)www\.snapchat\.com$
 (^|\.)bitmoji\.com$
-(^|\.)app.musemuse\.cn$
 (^|\.)isnssdk\.com$
