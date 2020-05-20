@@ -6,8 +6,10 @@ imapi-mu.isnssdk.com
 alogs.umeng.com
 gecko-sg.byteoversea.com
 baidu.com
+(^|\.)tiktokcdn\.com$
 (^|\.)musical\.ly$
 (^|\.)muscdn\.com$
 (^|\.)snapchat\.com$
 (^|\.)www\.snapchat\.com$
 (^|\.)bitmoji.com$
+(^|\.)app.musemuse\.cn$
