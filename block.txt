@@ -1,6 +1,5 @@
 p16-tiktokcdn-com.akamaized.net
 mpak-suse1.akamaized.net
-alogs.umeng.com
 gecko-sg.byteoversea.com
 
 (\.|^)baidu\.com$
