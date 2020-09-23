@@ -1,7 +1,7 @@
 p16-tiktokcdn-com.akamaized.net
 mpak-suse1.akamaized.net
 gecko-sg.byteoversea.com
-
+(\.|^)youtube\.com$
 (\.|^)baidu\.com$
 (\.|^)bitmoji\.com$
 (\.|^)snapchat\.com$
